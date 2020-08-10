@@ -1,11 +1,11 @@
 import React from 'react';
 import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 import "../node_modules/bootstrap/dist/js/bootstrap.bundle";
-import Home from "./Home";
-import About from "./About";
-import Service from "./Service";
-import Contact from "./Contact";
-import Navbar from "./Navbar";
+import Home from "./components/Home";
+import About from "./components/About";
+import Service from "./components/Service";
+import Contact from "./components/Contact";
+import Navbar from "./components/Navbar";
 import { Switch , Route  } from "react-router-dom";
 
 const App = () => {
