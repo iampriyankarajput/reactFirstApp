@@ -1,0 +1,103 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "pooja",
+      "gender": "female",
+      "city": "delhi",
+      "salary": 13000
+    },
+    {
+      "id": 2,
+      "name": "kunal",
+      "gender": "male",
+      "city": "noida",
+      "salary": 16000
+    },
+    {
+      "id": 3,
+      "name": "rohan",
+      "gender": "male",
+      "city": "pune",
+      "salary": 16000
+    },
+    {
+      "id": 4,
+      "name": "kapil",
+      "gender": "male",
+      "city": "pune",
+      "salary": 22000
+    },
+    {
+      "id": 5,
+      "name": "Priyanka Rajput",
+      "gender": "female",
+      "city": "fbd",
+      "salary": 12000
+    },
+    {
+      "name": "amit",
+      "gender": "male",
+      "city": "delhi",
+      "id": 6
+    }
+  ],
+  "book": [
+    {
+      "id": 1,
+      "name": "c++",
+      "author": "balagursamy",
+      "price": 340
+    },
+    {
+      "id": 2,
+      "name": "c",
+      "author": "balagursamy",
+      "price": 440
+    },
+    {
+      "id": 3,
+      "name": "c#",
+      "author": "balagursamy",
+      "price": 150
+    },
+    {
+      "id": 4,
+      "name": "java",
+      "author": "tanveer",
+      "price": 210
+    },
+    {
+      "id": 5,
+      "name": "angular",
+      "author": "sam",
+      "price": 360
+    }
+  ],
+  "product": [
+    {
+      "id": 1,
+      "name": "pen",
+      "price": 10,
+      "manufacturer": "reynolds"
+    },
+    {
+      "id": 2,
+      "name": "pencil",
+      "price": 5,
+      "manufacturer": "natraj"
+    },
+    {
+      "id": 3,
+      "name": "eraser",
+      "price": 5,
+      "manufacturer": "camel"
+    },
+    {
+      "id": 4,
+      "name": "sharpner",
+      "price": 5,
+      "manufacturer": "camel"
+    }
+  ]
+}

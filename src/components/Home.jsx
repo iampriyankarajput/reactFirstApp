@@ -1,6 +1,6 @@
 import React ,{ useState }  from 'react';
 import  ToDoLists from '../components/ToDoLists';
-import '../assets/css/home.css';
+// import '../assets/css/home.css';
 
 const Home = () => {
 
@@ -45,7 +45,9 @@ const deleteItems = (id) =>{
 
         </ol>
       </div>
-    </div>
+    </div> 
+
+    
     </>
   );
 }
